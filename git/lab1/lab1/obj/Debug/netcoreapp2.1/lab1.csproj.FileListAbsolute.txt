@@ -9,3 +9,14 @@ D:\учёба\4 курс\student and group\lab1\lab1\obj\Debug\netcoreapp2.1\lab
 D:\учёба\4 курс\student and group\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.AssemblyInfo.cs
 D:\учёба\4 курс\student and group\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.dll
 D:\учёба\4 курс\student and group\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.pdb
+D:\epam\git\lab1\lab1\bin\Debug\netcoreapp2.1\lab1.deps.json
+D:\epam\git\lab1\lab1\bin\Debug\netcoreapp2.1\lab1.runtimeconfig.json
+D:\epam\git\lab1\lab1\bin\Debug\netcoreapp2.1\lab1.runtimeconfig.dev.json
+D:\epam\git\lab1\lab1\bin\Debug\netcoreapp2.1\lab1.dll
+D:\epam\git\lab1\lab1\bin\Debug\netcoreapp2.1\lab1.pdb
+D:\epam\git\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.csprojAssemblyReference.cache
+D:\epam\git\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.csproj.CoreCompileInputs.cache
+D:\epam\git\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.AssemblyInfoInputs.cache
+D:\epam\git\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.AssemblyInfo.cs
+D:\epam\git\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.dll
+D:\epam\git\lab1\lab1\obj\Debug\netcoreapp2.1\lab1.pdb
