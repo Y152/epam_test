@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\учёба\\4 курс\\student and group\\lab1\\lab1\\lab1.csproj",
+      "projectUniqueName": "D:\\epam\\git\\lab1\\lab1\\lab1.csproj",
       "projectName": "lab1",
-      "projectPath": "D:\\учёба\\4 курс\\student and group\\lab1\\lab1\\lab1.csproj",
+      "projectPath": "D:\\epam\\git\\lab1\\lab1\\lab1.csproj",
       "packagesPath": "C:\\Users\\Александр Янковский\\.nuget\\packages\\",
-      "outputPath": "D:\\учёба\\4 курс\\student and group\\lab1\\lab1\\obj\\",
+      "outputPath": "D:\\epam\\git\\lab1\\lab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

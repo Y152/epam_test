@@ -44,6 +44,7 @@ namespace lab1
                 switch (str)
                 {
                     case "one":
+                        Console.WriteLine("1-й коммит");
                         Console.WriteLine("введите фамилию студента для рассчёта среднего балла");
                         string lastname = " ";
                         lastname = Console.ReadLine();
