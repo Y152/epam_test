@@ -45,7 +45,8 @@ namespace lab1
                 {
                     case "one":
                         Console.WriteLine("1-й коммит");
-                        Console.WriteLine("введите фамилию студента для рассчёта среднего балла");
+                        
+                        Console.WriteLine("введите фамилию студента для рассчёта среднего балла (2-й коммит)");
                         string lastname = " ";
                         lastname = Console.ReadLine();
 
