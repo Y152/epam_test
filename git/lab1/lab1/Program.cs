@@ -30,6 +30,7 @@ namespace lab1
             string comm = "third commit";
             int a = 12;
             //нет фантазии,просто коммит
+            string comm1 = "second commit in branch";
             int numgroup,kol = 5;
             Student[] student = new Student[kol];
             student[0] = new Student { firstname = "alexander", lastname = "yankovskiy", numbergroup = 2, points = new int[] { 10, 3, 6, 4, 5 } };
