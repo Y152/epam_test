@@ -3,6 +3,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace lab1
 {
+    
     class Program
     {
         public class Student
@@ -25,7 +26,7 @@ namespace lab1
         }
         static void Main(string[] args)
         {
-
+            string comm = "third commit";
             int numgroup,kol = 5;
             Student[] student = new Student[kol];
             student[0] = new Student { firstname = "alexander", lastname = "yankovskiy", numbergroup = 2, points = new int[] { 10, 3, 6, 4, 5 } };
