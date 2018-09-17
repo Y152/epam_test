@@ -43,13 +43,13 @@ namespace lab1
             {
                 Console.WriteLine("введите one,если хотите рассчитать средний бал 1 студента;");
                 Console.WriteLine("введите group,если хотите рассчитать средний бал всей группы");
-                Console.WriteLine("введите end для завершения работы");
+                Console.WriteLine("введите end для завершения работы,пожалуйста");
                 str = Console.ReadLine();
 
                 switch (str)
                 {
                     case "one":
-                        Console.WriteLine("1-й коммит");
+                        //Console.WriteLine("1-й коммит");
                         
                         Console.WriteLine("введите фамилию студента для рассчёта среднего балла (2-й коммит)");
                         string lastname = " ";
@@ -80,7 +80,7 @@ namespace lab1
                         Console.WriteLine(sredgroup);
                         break;
                 }
-                if (str == "end") break ;
+                if (str == "end") break ;//будет или нет)
             }
            
         }
