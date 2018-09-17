@@ -37,7 +37,7 @@ namespace lab1
             student[1] = new Student { firstname = "timofey", lastname = "grichenko", numbergroup = 2, points = new int[] { 8, 7, 9, 4, 5 } };
             student[2] = new Student { firstname = "alexxx", lastname = "ivanov", numbergroup = 1, points = new int[] { 9, 6, 6, 5, 5 } };
             student[3] = new Student { firstname = "egor", lastname = "smirnov", numbergroup = 2, points = new int[] { 9, 6, 6,8, 5 } };
-            student[4] = new Student { firstname = "alex", lastname = "listkov", numbergroup = 1, points = new int[] { 5, 6, 6, 10, 5 } };
+            student[4] = new Student { firstname = "alex", lastname = "listkovov", numbergroup = 1, points = new int[] { 5, 6, 6, 10, 5 } };
             string str;
             for (; ; )
             {
