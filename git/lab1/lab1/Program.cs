@@ -25,7 +25,7 @@ namespace lab1
             }
         }
         static void Main(string[] args)
-        {
+        {//adsa dasdas
 
             string comm = "third commit";
             int a = 12;
