@@ -33,23 +33,23 @@ namespace lab1
             string comm1 = "second commit in branch";
             int numgroup,kol = 5;
             Student[] student = new Student[kol];
-            student[0] = new Student { firstname = "alexander", lastname = "yankovskiy", numbergroup = 2, points = new int[] { 10, 3, 6, 4, 5 } };
+            student[0] = new Student { firstname = "alexander", lastname = "yankovskiy", numbergroup = 2, points = new int[] { 9, 3, 6, 4, 5 } };
             student[1] = new Student { firstname = "timofey", lastname = "grichenko", numbergroup = 2, points = new int[] { 8, 7, 9, 4, 5 } };
-            student[2] = new Student { firstname = "alex", lastname = "ivanov", numbergroup = 1, points = new int[] { 9, 6, 6, 3, 5 } };
-            student[3] = new Student { firstname = "egor", lastname = "smirnov", numbergroup = 2, points = new int[] { 9, 6, 6, 3, 5 } };
-            student[4] = new Student { firstname = "alex", lastname = "listkov", numbergroup = 1, points = new int[] { 5, 6, 6, 3, 5 } };
+            student[2] = new Student { firstname = "alex", lastname = "ivanov", numbergroup = 1, points = new int[] { 9, 6, 6, 5, 5 } };
+            student[3] = new Student { firstname = "egor", lastname = "smirnov", numbergroup = 2, points = new int[] { 9, 6, 6,8, 5 } };
+            student[4] = new Student { firstname = "alex", lastname = "listkov", numbergroup = 1, points = new int[] { 5, 6, 6, 10, 5 } };
             string str;
             for (; ; )
             {
                 Console.WriteLine("введите one,если хотите рассчитать средний бал 1 студента;");
                 Console.WriteLine("введите group,если хотите рассчитать средний бал всей группы");
-                Console.WriteLine("введите end для завершения работы");
+                Console.WriteLine("введите end для завершения работы,пожалуйста");
                 str = Console.ReadLine();
 
                 switch (str)
                 {
                     case "one":
-                        Console.WriteLine("1-й коммит");
+                        //Console.WriteLine("1-й коммит");
                         
                         Console.WriteLine("введите фамилию студента для рассчёта среднего балла (2-й коммит)");
                         string lastname = " ";
@@ -80,7 +80,7 @@ namespace lab1
                         Console.WriteLine(sredgroup);
                         break;
                 }
-                if (str == "end") break ;
+                if (str == "end") break ;//будет или нет)
             }
            
         }
