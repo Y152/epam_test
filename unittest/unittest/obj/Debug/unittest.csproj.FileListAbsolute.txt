@@ -1,0 +1,5 @@
+D:\учёба\4 курс\epam\unittest\unittest\bin\Debug\unittest.dll
+D:\учёба\4 курс\epam\unittest\unittest\bin\Debug\unittest.pdb
+D:\учёба\4 курс\epam\unittest\unittest\obj\Debug\unittest.csproj.CoreCompileInputs.cache
+D:\учёба\4 курс\epam\unittest\unittest\obj\Debug\unittest.dll
+D:\учёба\4 курс\epam\unittest\unittest\obj\Debug\unittest.pdb

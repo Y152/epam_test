@@ -1,0 +1,17 @@
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\unittest.tests.deps.json
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\unittest.tests.runtimeconfig.json
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\unittest.tests.runtimeconfig.dev.json
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\unittest.tests.dll
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\unittest.tests.pdb
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\unittest.dll
+D:\учёба\4 курс\epam\unittest\unittest.tests\bin\Debug\netcoreapp2.1\unittest.pdb
+D:\учёба\4 курс\epam\unittest\unittest.tests\obj\Debug\netcoreapp2.1\unittest.tests.csprojAssemblyReference.cache
+D:\учёба\4 курс\epam\unittest\unittest.tests\obj\Debug\netcoreapp2.1\unittest.tests.csproj.CoreCompileInputs.cache
+D:\учёба\4 курс\epam\unittest\unittest.tests\obj\Debug\netcoreapp2.1\unittest.tests.AssemblyInfoInputs.cache
+D:\учёба\4 курс\epam\unittest\unittest.tests\obj\Debug\netcoreapp2.1\unittest.tests.AssemblyInfo.cs
+D:\учёба\4 курс\epam\unittest\unittest.tests\obj\Debug\netcoreapp2.1\unittest.tests.csproj.CopyComplete
+D:\учёба\4 курс\epam\unittest\unittest.tests\obj\Debug\netcoreapp2.1\unittest.tests.dll
+D:\учёба\4 курс\epam\unittest\unittest.tests\obj\Debug\netcoreapp2.1\unittest.tests.pdb
