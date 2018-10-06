@@ -3,98 +3,99 @@ using Xunit;
 using Microsoft.VisualStudio.TestPlatform.Utilities;
 namespace unittest.tests
 {
-    public class Triangletest
+    public class UnitTest
     {
         triangle tr = new triangle();
+
         [Fact]
-        public void test1()
+
+        public void Test1()
         {
-
+            
             bool actual = tr.metodfalse(1, 2, 3);
-            bool expected = true;
+            
 
-            Assert.Equal(expected, actual);
+            Assert.Equal(true, actual);
         }
         [Fact]
-        public void test2()
+        public void Test2()
         {
             
             bool actual = tr.metodfalse(-1,1 , 3);
-            bool expected = false;
 
-            Assert.Equal(expected, actual);
+
+            Assert.Equal(true, actual);
         }
         [Fact]
-        public void test3()
+        public void Test3()
         {
 
             bool actual = tr.metodfalse(10, 1, 1);
-            bool expected = false;
+            
 
-            Assert.Equal(expected, actual);
+            Assert.Equal(true, actual);
         }
         [Fact]
-        public void test4()
+        public void Test4()
         {
 
             bool actual = tr.metodfalse(-10, 1, 10);
-            bool expected = true;
 
-            Assert.Equal(expected, actual);
+
+            Assert.Equal(false, actual);
         }
         [Fact]
-        public void test5()
+        public void Test5()
         {
 
             bool actual = tr.metodfalse(0, 1, 3);
-            bool expected = false;
 
-            Assert.Equal(expected, actual);
+
+            Assert.Equal(true, actual);
         }
         [Fact]
-        public void test6()
+        public void Test6()
         {
 
-            bool actual = tr.metodfalse(0, 0, 3);
+            bool actual = tr.metodfalse(0, 1.5, 3);
             bool expected = false;
 
             Assert.Equal(expected, actual);
         }
         [Fact]
-        public void test7()
+        public void Test7()
         {
 
             bool actual = tr.metodfalse(2, 5, 3);
-            bool expected = true;
 
-            Assert.Equal(expected, actual);
+
+            Assert.Equal(true, actual);
         }
         [Fact]
-        public void test8()
+        public void Test8()
         {
 
-            bool actual = tr.metodfalse(4, 8, 5);
-            bool expected = true;
+            bool actual = tr.metodfalse(4, 8, 5.88);
 
-            Assert.Equal(expected, actual);
+            Assert.Equal(true, actual);
         }
         [Fact]
-        public void test9()
+        public void Test9()
         {
 
-            bool actual = tr.metodfalse(10, -1, 0);
-            bool expected = false;
+            bool actual = tr.metodfalse(0.19, -1, 0);
 
-            Assert.Equal(expected, actual);
+
+            Assert.Equal(false, actual);
         }
         [Fact]
-        public void test10()
+        public void Test10()
         {
 
             bool actual = tr.metodfalse(4, 1, 3);
-            bool expected = true;
 
-            Assert.Equal(expected, actual);
+
+            Assert.Equal(true, actual);
         }
     }
 }
